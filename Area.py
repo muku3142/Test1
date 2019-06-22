@@ -1,0 +1,6 @@
+print("Please Enter Base Length")
+B= float(input())
+print("Please Enter Height Length")
+H= float(input())
+A= round(0.5 * H * B, 2)
+print('Area=', A)
